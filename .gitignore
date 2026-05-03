@@ -1,0 +1,19 @@
+# Entorno virtual
+venv/
+__pycache__/
+
+# Archivos de la base de datos y datos generados
+*.db
+*.csv
+
+# Logs y depuración
+*.log
+*.txt
+!requirements.txt
+*.html
+*.png
+
+# Ocultos de sistema o IDE
+.vscode/
+.idea/
+.env
